@@ -1,0 +1,6 @@
+numpy
+jupyter
+ipycanvas
+pillow
+requests
+hexdump
