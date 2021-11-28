@@ -1,1 +1,1 @@
-# Informatik Prüfungs Notbooks
+# Informatik Prüfungs Notebooks
